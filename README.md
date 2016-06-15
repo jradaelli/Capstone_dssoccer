@@ -10,10 +10,3 @@ The approach consists to use data describing games played during the season. The
 ## Possible Applications ##
 This tool is useful for team coaches to plan better the player to choose for each game and also for gaming online companies which want to generate useful insights for betting purposes. 
 
-## Possible Data sources ##
-
-[Lega Serie A] (http://www.legaseriea.it/it)
-
-[Transfermarkt] (http://www.transfermarkt.it/)
-
-[Wikipedia to collect stadium features] (https://it.wikipedia.org/wiki/Stadio_Giuseppe_Meazza)
